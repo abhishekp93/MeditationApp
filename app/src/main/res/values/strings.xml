@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeditationApp</string>
+    <string name="popular">Popular</string>
+    <string name="see_all">See All</string>
+    <string name="new_text">New</string>
+    <string name="all_practices">All Practices</string>
+    <string name="practices">Practices</string>
+</resources>
